@@ -5,6 +5,7 @@ public class Calculator1{
   int b=10;
 	int choice=1;
 	if(choice==1){
+		System.out.println("sum of two numbers are");
 		System.out.println(a+b);
 	}
 	if(choice==2){
